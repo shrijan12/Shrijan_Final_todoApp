@@ -39,7 +39,7 @@ This is Final Todo-Application Submitted to The Leeds Beckett University
 6. After the Sucessfull gradle compilation, Click on top Roght Run button
 7. Emulator would open up and compile the projects
 8. The splash Screen would popup and after the timer set to 400 sec, you can view your login page
-9 Login with the default username set to todo and Password set to todo@123
+9. Login with the default username set to todo and Password set to todo@123
 10. perofrm Todo Application
-11 Enjoy
+11. Enjoy
 
