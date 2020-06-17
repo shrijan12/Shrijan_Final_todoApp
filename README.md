@@ -32,14 +32,14 @@ This is Final Todo-Application Submitted to The Leeds Beckett University
 4. All SDK platforms must be installed properly upto api level 29
 
 # Steps which is included for creating installing Application on your machine
-Step-1 Extract the Zip File 
-Step-2 Findout A suitablle repos 
-Step-3 Open Android Studio and import The Project
-Step-5 Let andoroid Studio compile and build gradle
-Step-6 After the Sucessfull gradle compilation, Click on top Roght Run button
-Step-7 Emulator would open up and compile the projects
-Step-8 The splash Screen would popup and after the timer set to 400 sec, you can view your login page
-Step-8 Login with the default username set to todo and Password set to todo@123
-Step-9 perofrm Todo Application
-Step-9 Enjoy
+Step-1. Extract the Zip File 
+Step-2. Findout A suitablle repos 
+Step-3. Open Android Studio and import The Project
+Step-5. Let andoroid Studio compile and build gradle
+Step-6. After the Sucessfull gradle compilation, Click on top Roght Run button
+Step-7. Emulator would open up and compile the projects
+Step-8. The splash Screen would popup and after the timer set to 400 sec, you can view your login page
+Step-9 Login with the default username set to todo and Password set to todo@123
+Step-10. perofrm Todo Application
+Step-11 Enjoy
 
